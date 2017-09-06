@@ -2,6 +2,7 @@
 UPLA is a community volunteer run non-profit focused on supporting and growing the sport of Ultimate Frisbee in Austin, TX and the greater Central Texas Region. The following pages are intended to simplify management of the organization.
 
 **[Register as a UPLA Volunteer]()**
+
 **[Calendar of Events]()**
 
 ## Pickup in Austin
